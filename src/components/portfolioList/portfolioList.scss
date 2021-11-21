@@ -1,0 +1,13 @@
+li {
+    font-size: 14px;
+    margin-right: 50px;
+    padding: 7px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+
+    &.active {
+        background-color: rgb(12, 12, 12);
+        color: white;
+    }
+}
